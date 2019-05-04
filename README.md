@@ -27,7 +27,23 @@ Diseno
 
 Implementacion
 
-1. 
+1. Eligiendo FrameWork
+
+Frameworks
+
+* Python Top 5 GUI Frameworks: https://youtu.be/iMBj_z0nwTQ
+  1. PyQt5
+  2. Tkinter
+  3. Wxpython
+  4. Kivy <-mobile
+  5. PyForms
+
+* Python Top 3 Web Framework: https://youtu.be/uyTg-gk8J_w
+
+  1. Django
+  2. Flask
+  3. Pyramid
+
 2. 
 
 Testing
