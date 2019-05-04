@@ -31,14 +31,14 @@ Implementacion
 
 Frameworks
 
-* Python Top 5 GUI Frameworks: [Video](https://youtu.be/iMBj_z0nwTQ){:target="_blank"}
+* Python Top 5 GUI Frameworks: [Video](https://youtu.be/iMBj_z0nwTQ)
   1. PyQt5 (Antonio)
   2. Tkinter (Alexis)
   3. Wxpython (Shaquil)
   4. Kivy <-mobile (Josue)
   5. PyForms (Juan)
 
-* Python Top 3 Web Framework: [Video](https://youtu.be/uyTg-gk8J_w){:target="_blank"}
+* Python Top 3 Web Framework: [Video](https://youtu.be/uyTg-gk8J_w)
 
   1. Django (Diego)
   2. Flask (Franklin)
