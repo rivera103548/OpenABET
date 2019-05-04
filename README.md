@@ -17,6 +17,7 @@ Cada universidad debe realizar un proceso de avaluo para mantener que sus progra
 5. Guarde la data por año, ciclo, etc. 
 6. Cada cursos debe incluir el tipo de herramienta pedagógica y forma de avaluo.
 7. Exportar PDF o docx
+8. 
 
 Diseno
 
