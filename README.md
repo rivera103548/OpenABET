@@ -40,7 +40,7 @@ Frameworks
 
 * Python Top 3 Web Framework: [Video](https://youtu.be/uyTg-gk8J_w)
 
-  1. Django (Diego)
+  1. Django (Diego) https://www.youtube.com/watch?v=F5mRW0jo-U4
   2. Flask (Franklin)
   3. Pyramid (Felix)
 
