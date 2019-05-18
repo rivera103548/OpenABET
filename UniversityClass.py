@@ -5,60 +5,60 @@ class University():
         """
         First definition of all the parts linked.
         """
-	def __init__(self,campus,departments,carreers,curriculum):
+        def __init__(self,campus,departments,carrers,curriculum):
                 """
                 Each one of them.
                 """
                 self.campus = campus
-                self.departments = departements
-                self.carreers = carreres
+                self.departments = departments
+                self.carrers = carrers
                 self.curriculum = curriculum
-                
+
         def setCampus(self,campus):
                 """
-                
+
                 """
                 self.campus = camp
 
         def setDepartments(self,departments):
                 """
-                
+
                 """
                 self.departments = dep
 
         def setCarrers(self,carrers):
                 """
-                
+
                 """
                 self.carreers = carr
-                
-         def setCurriculum(self,curriculum):
+
+        def setCurriculum(self,curriculum):
                 """
-                
+
                 """
                 self.curriculum = curr
 
         def getCampus(self,campus):
                 """
-                
+
                 """
                 return self.campus
 
         def getDepartments(self,departments):
                 """
-                
+
                 """
                 return self.departments
 
         def getCarrers(self,carrers):
                 """
-                
+
                 """
-                return self.carreers
-                
-         def getCurriculum(self,curriculum):
+                return self.carrers
+
+        def getCurriculum(self,curriculum):
                 """
-                
+
                 """
                 return self.curriculum
 
@@ -66,4 +66,4 @@ class University():
                 """
 
                 """
-                return (self.campus,self.departments,self.carreers,self.curriculum)
+                return (self.campus,self.departments,self.carrers,self.curriculum)
